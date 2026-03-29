@@ -1,0 +1,1 @@
+# Mailtrix Releases\n\nInstaller downloads for [Mailtrix](https://mailtrix.pro).
